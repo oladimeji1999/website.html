@@ -1,0 +1,10 @@
+image{position: relative;
+height: 800px;
+width: 1245px; ; }
+.imageOverlay{position: absolute;
+height: 40px;
+width: 40px;
+background-position: top;
+top: 100px;
+left: 480px;  text-align: center;font-size: 80px;font-style: oblique;
+ }
